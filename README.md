@@ -1,0 +1,2 @@
+# rust-exercises
+Daily practice
